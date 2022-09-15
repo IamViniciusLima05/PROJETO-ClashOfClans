@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+
+p{
+	text-align:justify;
+	text-indent:25px;
+}
+.img{
+    background-size: 46px auto;
+    background-position: 14px 14px;
+    height: 40 px;
+    position: relative;
+    padding: 13px;
+}
+.nav{
+    margin-bottom: 0;
+}
+
+.topo{
+    margin-top:0;
+    background-image: url(../img/hero.jpg);
+    background-size: 100% 100%;
+  }
+.topo2{
+    margin-top: 0;
+    background-image: url(../img/better\ one.png);
+    background-size: 100% 100%;
+}
+.rodape{
+    background-attachment: fixed;
+    background-color: black;
+    text-align: center;
+    margin-top: 5px;
+}
+.meio{
+    background-attachment: fixed;
+    text-align: center;
+    margin-top: 50px;
+    padding: 100px;
+}
+.nomes{
+    text-align: center;
+    margin-top: 10px;
+    padding: 80px;
+}
+.cj{
+    background-color: snow;
+    text-align: center;
+    margin-top: 10px;
+    padding: 80px;
+}
+.formulario{
+    text-align: center;
+    margin-top: 10px;
+}
+.cadastro{
+    margin-left: 20px;
+    text-align: left;
+}
+.video{
+    background-position: center;
+    margin-top: 50px;
+}
+.lerMais{
+    background-position: left;
+    margin-left: 20px;
+}
